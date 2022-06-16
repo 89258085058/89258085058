@@ -18,6 +18,7 @@
 <code><img width="5%" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
 <code><img width="5%" title="Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img width="5%" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></code>
+<code><img width="5%" title="Selenoid" src="https://aerokube.com/selenoid/latest/img/og-image.jpg"></code>
 <code><img width="5%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"></code>
 <code><img width="5%" title="Pytest" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg"></code>
 <code><img width="5%" title="GitLab" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
