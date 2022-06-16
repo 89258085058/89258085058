@@ -22,5 +22,5 @@
 <code><img width="5%" title="GitLab" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img width="5%" title="TeamCity" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TeamCity_Icon.svg/1200px-TeamCity_Icon.svg.png"></code>
-<code><img width="5%" title="Jenkins" src="https://dnam.su/images/xaas/xaas.png"></code>
+<code><img width="5%" title="Jenkins" src="https://p7.hiclipart.com/preview/811/817/139/jenkins-continuous-integration-build-automation-continuous-delivery-software-build-integration-thumbnail.jpg"></code>
 </p>
