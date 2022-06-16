@@ -6,6 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=footer&desc=Wellcome%20to%20my%20GitHub&descAlignY=75&descSize=40&animation=twinkling&fontColor=EAF5D2&descAlign=67)
 
+## :rocket: Технологии и инструменты
 
 
 <p  align="center"
