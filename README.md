@@ -11,7 +11,7 @@
 
 <p  align="center"
 
-<code><img width="5%" title="Pycharm" src="https://img2.freepng.ru/20180629/ozb/kisspng-pycharm-jetbrains-intellij-idea-integrated-develop-5b35cf9d892606.3464795215302532135618.jpg"></code>
+<code><img width="5%" title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"></code>
 <code><img width="5%" title="Selenium" src="images/Selenium.svg"></code>
 <code><img width="5%" title="Redmine" src="images/Redmine.svg"></code>
 <code><img width="5%" title="Python" src="images/Python.svg"></code>
