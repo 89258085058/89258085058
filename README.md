@@ -27,7 +27,6 @@
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img width="5%" title="Appium" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
 <code><img width="5%" title="HTML CSS" src="https://cdn.coursehunter.net/course/html-css-luchshiy-kurs.jpg"></code>
-
 <code><img width="5%" title="Locust" src="https://avatars.githubusercontent.com/u/2641063?v=4"></code>
 <code><img width="5%" title="Django" src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg"></code>
 <code><img width="5%" title="Xampp" src="https://bestsoft.club/wp-content/uploads/2020/08/ikonka-xampp.jpg"></code>
