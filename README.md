@@ -16,7 +16,7 @@
 <code><img width="5%" title="Redmine" src="https://www.drupal.org/files/images/Redmine-Logo-CyberSprocket-Composite-300x300-png8.png"></code>
 <code><img width="5%" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
 <code><img width="5%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"></code>
-<code><img width="5%" title="Pytest" src="images/Pytest.svg"></code>
-<code><img width="5%" title="GitLab" src="images/GitLab.svg"></code>
-<code><img width="5%" title="TeamCity" src="images/TC.svg"></code>
+<code><img width="5%" title="Pytest" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg"></code>
+<code><img width="5%" title="GitLab" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
+<code><img width="5%" title="TeamCity" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TeamCity_Icon.svg/1200px-TeamCity_Icon.svg.png"></code>
 </p>
