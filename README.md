@@ -22,6 +22,7 @@
 <code><img width="5%" title="Selenoid" src="https://diginomica.com/sites/default/files/images/2017-09/docker-container.jpg"></code>
 <code><img width="5%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"></code>
 <code><img width="5%" title="Pytest" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg"></code>
+<code><img width="5%" title="PytestAPI" src="https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1580626510144-Y6C73XYMHKFRTCY1TW74/apipy-logo.png?format=1000w"></code>
 <code><img width="5%" title="GitLab" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img width="5%" title="TeamCity" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TeamCity_Icon.svg/1200px-TeamCity_Icon.svg.png"></code>
