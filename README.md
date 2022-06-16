@@ -26,6 +26,7 @@
 <code><img width="5%" title="GitLab" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img width="5%" title="Appium" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
+<code><img width="5%" title="xampp " src="https://bestsoft.club/wp-content/uploads/2020/08/ikonka-xampp.jpg"></code>
 <code><img width="5%" title="JamesMailServer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Apache_James_logo.svg/800px-Apache_James_logo.svg.png"></code>
 <code><img width="5%" title="SQL" src="https://image.shutterstock.com/image-vector/sql-database-icon-logo-design-260nw-684826648.jpg"></code>
 <code><img width="5%" title="TeamCity" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TeamCity_Icon.svg/1200px-TeamCity_Icon.svg.png"></code>
