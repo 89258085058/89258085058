@@ -22,5 +22,5 @@
 <code><img width="5%" title="GitLab" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img width="5%" title="TeamCity" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TeamCity_Icon.svg/1200px-TeamCity_Icon.svg.png"></code>
-<code><img width="5%" title="Jenkins" src="https://kutsevol.github.io/images/jenkins-logo.png"></code>
+<code><img width="5%" title="Jenkins" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtYG7QA8nfPo4KnQfkJJh0_t5DMzjIM3V_lf6vySKB5mSOUmUOzEf1qLneGIX7DLJbew&usqp=CAU"></code>
 </p>
