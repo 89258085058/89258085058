@@ -26,6 +26,7 @@
 <code><img width="5%" title="PytestAPI" src="https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1580626510144-Y6C73XYMHKFRTCY1TW74/apipy-logo.png?format=1000w"></code>
 <code><img width="5%" title="GitLab" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
+<code><img width="5%" title="Postman" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 <code><img width="5%" title="Appium" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
 <code><img width="5%" title="Swagger" src="https://avatars2.githubusercontent.com/u/7658037?v=3&s=400"></code>
 <code><img width="5%" title="Linux" src="https://cdn-icons-png.flaticon.com/512/546/546049.png"></code>
