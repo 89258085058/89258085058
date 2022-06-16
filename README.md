@@ -26,7 +26,7 @@
 <code><img width="5%" title="GitLab" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img width="5%" title="Appium" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
-<code><img width="5%" title="HTML CSS" src="https://kurspc.com.ua/img_stati/html5.png"></code>
+<code><img width="5%" title="Сonfluence" src="https://e7.pngegg.com/pngimages/635/723/png-clipart-confluence-collaborative-software-logo-sharepoint-blue-pill-bug-hand-logo.png"></code>
 <code><img width="5%" title="Locust" src="https://avatars.githubusercontent.com/u/2641063?v=4"></code>
 <code><img width="5%" title="Django" src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg"></code>
 <code><img width="5%" title="Xampp" src="https://bestsoft.club/wp-content/uploads/2020/08/ikonka-xampp.jpg"></code>
