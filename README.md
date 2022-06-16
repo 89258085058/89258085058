@@ -5,3 +5,17 @@
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=footer&desc=Wellcome%20to%20my%20GitHub&descAlignY=75&descSize=40&animation=twinkling&fontColor=EAF5D2&descAlign=67)
+
+
+
+<p  align="center"
+
+<code><img width="5%" title="Pycharm" src="images/Pycharm.svg"></code>
+<code><img width="5%" title="Selenium" src="images/Selenium.svg"></code>
+<code><img width="5%" title="Redmine" src="images/Redmine.svg"></code>
+<code><img width="5%" title="Python" src="images/Python.svg"></code>
+<code><img width="5%" title="Allure Report" src="[images/allure-Report-logo.svg](https://avatars.githubusercontent.com/u/5879127?s=200&v=4)"></code>
+<code><img width="5%" title="Pytest" src="images/Pytest.svg"></code>
+<code><img width="5%" title="GitLab" src="images/GitLab.svg"></code>
+<code><img width="5%" title="TeamCity" src="images/TC.svg"></code>
+</p>
